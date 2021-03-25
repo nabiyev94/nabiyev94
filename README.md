@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @nabiyev94
+- 👀 I’m interested in software programmimg and web technologies...
+- 🌱 I’m currently learning back-end web development ...
+- 💞️ I’m looking to collaborate on different projects...
+
+<!---
+nabiyev94/nabiyev94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
